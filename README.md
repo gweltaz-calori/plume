@@ -25,7 +25,7 @@
 
 The official documentation
 
-[https://plume.gweltaz-calori.com/](https://plume.gweltaz-calori.com/)
+[https://plume.gweltaz-calori.com/](https://dist-kghvvuczwu.now.sh/)
 
 ## 🔧 Installation
 
