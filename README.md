@@ -31,8 +31,8 @@ The official documentation
 
 Npm coming soon
 
-`download dist/plume.js` in Browser
+`download dist/plume.js` for node
 
-`download dist/mjs.js` For Webpack 3/4, Gulp
+`download dist/mjs.js` For Webpack 4
 
-`download dist/umd.js` For Webpack 1
+`download dist/umd.js` For Webpack 3 and browser
