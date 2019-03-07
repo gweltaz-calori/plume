@@ -73,4 +73,8 @@ export default class SuperChannel {
             this.mute();
         }
     }
+
+    getEffect(name) {
+        return this.effects.find(effect => effect.name === name) || null;
+    }
 }
