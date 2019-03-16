@@ -36,3 +36,9 @@ Npm coming soon
 `download dist/mjs.js` For Webpack 4
 
 `download dist/umd.js` For Webpack 3 and browser
+
+## Credits
+
+The framework is heavily inspired by Active Theory framework Hydra.
+
+It also takes inspiration from flutter to create views
