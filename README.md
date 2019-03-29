@@ -41,6 +41,10 @@ Or
 
 `download dist/umd.js` For Webpack 3 and browser
 
+## Live Demos
+
+[https://plume-demos.gweltaz-calori.com/](https://build-dhkxznqjes.now.sh/)
+
 ## Basic Usage
 
 ```
