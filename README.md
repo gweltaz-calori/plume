@@ -29,13 +29,23 @@ The official documentation
 
 ## 🔧 Installation
 
-Npm coming soon
+```
+npm install plume-core --save
+```
+
+Or
 
 `download dist/plume.js` for node
 
 `download dist/mjs.js` For Webpack 4
 
 `download dist/umd.js` For Webpack 3 and browser
+
+## Basic Usage
+
+```
+import { Component, Create, Vector2, TweenManager, Ease } from 'plume-core'
+```
 
 ## Credits
 
