@@ -47,6 +47,10 @@ Or
 import { Component, Create, Vector2, TweenManager, Ease } from 'plume-core'
 ```
 
+## Examples
+
+See the `example` folder
+
 ## Credits
 
 The framework is heavily inspired by Active Theory framework Hydra.
