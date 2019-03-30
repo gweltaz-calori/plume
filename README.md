@@ -21,6 +21,12 @@
 - **A custom Http Client** to make request faster
 - And way more
 
+## What can you do ? 
+
+You can use the framework in two ways
+- As a small utils library where you only use some bits like the audiomanager or the tweenmanager. 
+- Or, you can use it as your main framework which means you can use a router to make differents pages, Components to structure and create reusable views etc ...
+
 ## 📑 Documentation
 
 The official documentation
